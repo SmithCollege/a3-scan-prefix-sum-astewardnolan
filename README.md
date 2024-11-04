@@ -7,8 +7,8 @@ Due Date: 10/24~~23~~ at midnight
 
 Implement the scan/prefix sum algorithm from the slides in three variations:
 
-1. Single-threaded CPU approach
-2. Naive 
+1. Single-threaded CPU approach (done)
+2. Naive (done)
 3. Recursive doubling or multiple kernels
 
 For each approach you will need to:
