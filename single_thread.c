@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <sys/time.h>
 
-#define SIZE 128
+#define SIZE 1024
 
 double get_clock() {
     struct timeval tv; int ok;

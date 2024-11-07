@@ -43,7 +43,7 @@ double get_clock() {
 int main(void) {
   // allocate input and output arrays
   int SIZE = 1<<20; // 1M elements
-  SIZE=128;
+  SIZE=1024;
   int *in, *out;
 
   cudaMallocManaged(&in, SIZE*sizeof(int));
